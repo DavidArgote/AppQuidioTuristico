@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">Quíndio Turístico</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="sitios">Sitios</string>
+    <string name="detalledelsitio">Detalle del sitio</string>
+    <string name="menuprincipal">Menú principal</string>
+    <string name="inicio">Inicio</string>
+    <string name="Sitios">Sitios</string>
+    <string name="hoteles">Hoteles</string>
+    <string name="resturantes">Resturantes</string>
+    <string name="registrar">Registrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">eliminar</string>
+    <string name="buscar">Buscar</string>
+    <string name="gestionar">Gestionar</string>
+
+    <string name="advertencia">Advertencia</string>
+    <string name="advertencia1">¿Deseas eliminar el registro?</string>
+
+
+
+
+    <array name="tipos">
+        <item>Selecciona una categoría</item>
+        <item>Hotel</item>
+        <item>Restaurante</item>
+        <item>Sitio</item>
+    </array>
+
+</resources>
